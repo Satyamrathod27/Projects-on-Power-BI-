@@ -13,6 +13,8 @@ https://app.powerbi.com/view?r=eyJrIjoiOWQxOWJkODMtZWExYy00MjVkLWI3NTUtYjk5YzU0O
 # CAR SALES DASHBOARD
 ![Screenshot (91)](https://github.com/Satyamrathod27/Projects-on-Power-BI-/assets/139789888/a5b63b40-407a-4c35-903b-0c551eafb73f)
 
+# project Title - Car Sales Analytics 
+
 # Problem statement
 Create a data-driven Car Sales Analytics project using Power BI that will enable ABC Motors to analyze its sales performance, inventory status, and customer behavior.
 
